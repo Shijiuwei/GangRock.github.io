@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GangRock.github.io</title>
+  <subtitle>yuben webapp</subtitle>
+  <link href="https://Shijiuwei.github.io/GangRock.github.io/feed.xml" rel="self"/>
+  <id>https://Shijiuwei.github.io/GangRock.github.io/</id>
+  <updated>2026-11-17T18:18:29.141196500+00:00</updated>
+  <entry>
+    <title>GangRock.github.io 可观测性指标、结构化日志与探针设计 (Telemetry v1)</title>
+    <link href="https://Shijiuwei.github.io/GangRock.github.io/docs/specs-update-v1.html"/>
+    <id>https://Shijiuwei.github.io/GangRock.github.io/docs/specs-update-v1.html</id>
+    <updated>2026-11-17T18:18:29.141196500+00:00</updated>
+    <summary>建立覆盖 GangRock.github.io 全链路的度量指标命名规约、JSON 结构化日志上下文及针对「github」服务的健康探针检查项。</summary>
+  </entry>
+  <entry>
+    <title>GangRock.github.io Component Blueprint</title>
+    <link href="https://Shijiuwei.github.io/GangRock.github.io/docs/architecture.html"/>
+    <id>https://Shijiuwei.github.io/GangRock.github.io/docs/architecture.html</id>
+    <updated>2026-11-17T18:18:29.141196500+00:00</updated>
+    <summary>Generated architectural reference tailored to GangRock.github.io detailing how GangRock.github.io interacts with GangRock:</summary>
+  </entry>
+  <entry>
+    <title>GangRock.github.io Configuration &amp; Runtime Constraints</title>
+    <link href="https://Shijiuwei.github.io/GangRock.github.io/docs/specifications.html"/>
+    <id>https://Shijiuwei.github.io/GangRock.github.io/docs/specifications.html</id>
+    <updated>2026-11-17T18:18:29.141196500+00:00</updated>
+    <summary>Contract baseline and operational envelope for GangRock.github.io:</summary>
+  </entry>
+</feed>

@@ -1,0 +1,6 @@
+title: "GangRock.github.io"
+description: "yuben webapp"
+lang: en-US
+exclude:
+  - node_modules
+  - .git

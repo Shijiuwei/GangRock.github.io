@@ -6,19 +6,21 @@
 
 - [Home](https://Shijiuwei.github.io/GangRock.github.io/index.html)
 - [Documentation Catalog](https://Shijiuwei.github.io/GangRock.github.io/docs/index.html)
-- [GangRock.github.io 架构升级与技术规约 (v1)](https://Shijiuwei.github.io/GangRock.github.io/docs/specs-update-v1.html): 针对高并发网络调度与数据同步场景，本轮迭代进一步强化了低延迟感知与可信基准校验。
+- [GangRock.github.io Component Blueprint](https://Shijiuwei.github.io/GangRock.github.io/docs/architecture.html): Generated architectural reference tailored to GangRock.github.io detailing how GangRock.github.io interacts with GangRock:
+- [GangRock.github.io Configuration & Runtime Constraints](https://Shijiuwei.github.io/GangRock.github.io/docs/specifications.html): Contract baseline and operational envelope for GangRock.github.io:
+- [GangRock.github.io 可观测性指标、结构化日志与探针设计 (Telemetry v1)](https://Shijiuwei.github.io/GangRock.github.io/docs/specs-update-v1.html): 建立覆盖 GangRock.github.io 全链路的度量指标命名规约、JSON 结构化日志上下文及针对「github」服务的健康探针检查项。
 
 ## References
 
-- [系统架构](https://feed.waepv.cn/d/OSaBm7QIJW)
-- [拓扑网络](https://www.mw-wm.com/s/ep00MQi1Eq2KHWxflF)
-- [系统架构](https://doc.tcti.cn/tag/AI)
-- [拓扑网络](https://view.ai-hao123.com)
-- [系统架构](https://doc.ai-hao123.com/sitemap.xml)
-- [拓扑网络](https://news.ai-hao123.com/d/lu047577.html)
-- [系统架构](https://info.yx-sf.com/sitemap.xml)
-- [拓扑网络](https://view.yx-sf.com/d/ok960657.html)
-- [系统架构](https://tech.zhushou.pro/sitemap.xml)
-- [拓扑网络](https://doc.zhushou.pro/d/op122966.html)
-- [系统架构](https://zpgm.yx-sf.com/pingce/system-27140582.html)
-- [拓扑网络](https://dgdz.ai-hao123.com/yinqing/retention-09167620.html)
+- [Reference](https://channel.sangni3.cn/v/ep0i7v2unfXY8imexv)
+- [Reference](https://archive.yx-sf.com/d/YkhcR6Yj1v)
+- [Reference](https://news.zhushou.pro/u/5WbgL6fm9H)
+- [Reference](https://www.ai-hao123.com)
+- [Reference](https://tech.ai-hao123.com/sitemap.xml)
+- [Reference](https://read.ai-hao123.com/d/oe461464.html)
+- [Reference](https://news.yx-sf.com/sitemap.xml)
+- [Reference](https://www.yx-sf.com/d/xa219801.html)
+- [Reference](https://blog.zhushou.pro/sitemap.xml)
+- [Reference](https://news.zhushou.pro/d/hg139707.html)
+- [Reference](https://wgmm.yx-sf.com/zixun/privacy-58579987.html)
+- [Reference](https://qhsq.ai-hao123.com/anfang/sport-65663396.html)
